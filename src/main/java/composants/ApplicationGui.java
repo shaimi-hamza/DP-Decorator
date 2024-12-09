@@ -9,7 +9,7 @@ import java.awt.*;
 
 public class ApplicationGui {
     private Boisson boisson; // La boisson actuelle
-    final JTextArea affichage; // Zone pour afficher la description et le coût
+    private JTextArea affichage; // Zone pour afficher la description et le coût
 
     public ApplicationGui() {
 
